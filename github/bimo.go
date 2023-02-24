@@ -1,7 +1,1 @@
-package main
-
-import "fmt"
-
-func main() {
-	fmt.Println("Nama saya bimo")
-}
+// Nama saya aryo bimo
